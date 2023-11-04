@@ -40,8 +40,6 @@ As this project is part of the Udemy course "The Complete Data Science Bootcamp"
 
 ## License
 
-This project is part of the coursework for "The Complete Data Science Bootcamp" by 365 Careers on Udemy and is not subject to external licensing restrictions. It is intended for educational purposes and personal development as part of the course.
-
-Thank you for visiting this repository, and we hope this project demonstrates the skills and knowledge acquired during "The Complete Data Science Bootcamp" by 365 Careers. Enjoy exploring and predicting employee absenteeism using Python and machine learning techniques! If you have any course-related questions or need assistance, don't hesitate to reach out to the course community or instructor.
+This project is under MIT License.
 
 Happy learning! 📊📈
